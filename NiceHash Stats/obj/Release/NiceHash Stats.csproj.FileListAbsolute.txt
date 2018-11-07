@@ -1,0 +1,7 @@
+c:\users\ziga\source\repos\NiceHash Stats\NiceHash Stats\bin\Release\NiceHash Stats.exe.config
+c:\users\ziga\source\repos\NiceHash Stats\NiceHash Stats\bin\Release\NiceHash Stats.exe
+c:\users\ziga\source\repos\NiceHash Stats\NiceHash Stats\bin\Release\NiceHash Stats.pdb
+c:\users\ziga\source\repos\NiceHash Stats\NiceHash Stats\obj\Release\NiceHash Stats.csproj.CoreCompileInputs.cache
+c:\users\ziga\source\repos\NiceHash Stats\NiceHash Stats\obj\Release\NiceHash Stats.exe
+c:\users\ziga\source\repos\NiceHash Stats\NiceHash Stats\obj\Release\NiceHash Stats.pdb
+C:\Users\Ziga\source\repos\NiceHash Stats\NiceHash Stats\obj\Release\NiceHash Stats.csprojAssemblyReference.cache
