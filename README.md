@@ -12,7 +12,7 @@ You can download **NiceHash Stats.exe** from *NiceHash Stats\bin\Release* or you
 
 ## EULA
 You have all rights to edit NiceHash Stats.
-But if you want to publish it you need to write my name and surname: Ziga Zajc and write my BTC wallet:
+But if you want to publish it you need to write my name, surname (Ziga Zajc) and write my BTC wallet:
 **3QY8DB1zfoGv3VrL36MrmwuQhj8bzYet5n**
 
 ## Images
